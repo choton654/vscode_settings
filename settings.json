@@ -1,0 +1,113 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.jsx": "javascriptreact",
+    "*.ejs": "html"
+  },
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
+  "explorer.confirmDelete": false,
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+  "indentRainbow.includedLanguages": ["javascriptreact", "javascript"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.fontLigatures": true,
+  "window.closeWhenEmpty": false,
+  "window.newWindowDimensions": "inherit",
+  "window.openFilesInNewWindow": "off",
+  "window.openFoldersInNewWindow": "on",
+  "window.restoreFullscreen": false,
+  "window.restoreWindows": "all",
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "window.titleBarStyle": "custom",
+  "editor.formatOnPaste": true,
+  "beautify.language": {
+    "css": ["css", "scss"],
+    "html": ["htm", "html", "njk", "pug", "liquid", "php", "erb"],
+    "js": {
+      "filename": [".jshintrc", ".jsbeautify"],
+      "type": ["javascript", "json"]
+    }
+  },
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.07)",
+    "rgba(127,255,127,0.07)",
+    "rgba(255,127,255,0.07)",
+    "rgba(79,236,236,0.07)"
+  ],
+  "editor.fontWeight": "500",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.semanticHighlighting.enabled": true,
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+  },
+
+  "window.zoomLevel": 0,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorCustomizations": {},
+  "editor.tabSize": 2,
+  "liveServer.settings.donotVerifyTags": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // "[javascript]": {
+  //   "editor.formatOnSave": true
+  // },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+      "attr_quotes": "single"
+    }
+  },
+  "editor.lineHeight": 22,
+  "javascript.validate.enable": false,
+  "workbench.editor.enablePreview": false,
+  "prettier.trailingComma": "all",
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "editor.letterSpacing": 0.5,
+  "editor.cursorWidth": 2,
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "top",
+  "editor.glyphMargin": true,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontWeight": "400",
+  "editor.fontFamily": "Fira Code, iA Writer Duospace, Menlo, Monaco, 'Courier New', monospace",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "workbench.fontAliasing": "auto",
+  "terminal.integrated.macOptionIsMeta": true,
+
+  "prettier.bracketSpacing": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeightBold": "700",
+  "importCost.largePackageColor": "#EC3A37F5",
+  "importCost.mediumPackageColor": "#B362FF",
+  "importCost.smallPackageColor": "#B362FF",
+  "workbench.colorTheme": "One Dark Pro"
+}
